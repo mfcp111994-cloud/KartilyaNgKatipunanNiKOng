@@ -1,0 +1,6 @@
+/* Gravity Pixel */
+!function(w,d,t,u,n,a,m){w['GravityPixelObject']=n;w[n]=w[n]||function(){
+(w[n].q=w[n].q||[]).push(arguments)},w[n].l=1*new Date();a=d.createElement(t),
+m=d.getElementsByTagName(t)[0];a.async=1;a.src=u;m.parentNode.insertBefore(a,m)
+}(window,document,'script','https://code.trygravity.ai/gr-pix.js','gravity');
+gravity('init', 'ebf1e525-4564-4290-9781-1407466fe77b');
